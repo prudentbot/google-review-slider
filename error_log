@@ -1,0 +1,1 @@
+[24-May-2017 14:23:22 America/New_York] PHP Fatal error:  Call to undefined function get_option() in /home/tylerbui/public_html/wp-content/plugins/google-review-slider/google_review_slider_iframe_content.php on line 4
